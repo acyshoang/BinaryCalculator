@@ -1,2 +1,2 @@
 # BinaryCalculator
-Calculate Binary numbers into Decimal, Octal and Hexadecimal
+Calculate Binary numbers into Decimal, Octal, Hexadecimal and Contrary
